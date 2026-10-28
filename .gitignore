@@ -1,0 +1,10 @@
+# Over GitHub's 100 MB file limit; rebuild with showcase/composite.py
+showcase/freefall-screen.mp4
+
+# Render intermediates
+showcase/screen.mp4
+showcase/score.wav
+showcase/_seg*
+__pycache__/
+
+.claude/
